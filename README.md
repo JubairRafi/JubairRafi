@@ -3,7 +3,7 @@
 
 I love to learn and apply my learning
 
-Skills: ANGULER / JS / HTML / CSS
+Skills: ANGULER / JS / HTML / CSS / C# / .NET / Wordpress
 
 - 🌱 I’m currently learning React 
 - 🤔 I’m looking for help with Competitive Programing 
